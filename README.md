@@ -1,5 +1,5 @@
 <div align="center">
-<img src="banner.png" alt="Banner" width="100%" />
+  <img src="banner.png" alt="Md Ahsan Habib Banner" width="100%" />
 </div>
 
 ---
@@ -8,7 +8,7 @@
 I am a passionate **Full Stack Web Developer** from Bangladesh with a knack for building clean, scalable, and user-friendly web applications. I thrive on turning complex problems into elegant code and am constantly staying up-to-date with the latest industry trends.
 
 * 🔭 I’m currently working on a **Product Management System**.
-* 🌱 I’m currently deepening my expertise in **Next.js, Typescript** and Server Actions.
+* 🌱 I’m currently deepening my expertise in **Next.js, TypeScript**, and Server Actions.
 * 💬 Ask me about **React, Next.js, or Firebase**.
 * ⚡ Fun fact: I love blending design and logic to create seamless user experiences.
 
@@ -32,11 +32,11 @@ I am a passionate **Full Stack Web Developer** from Bangladesh with a knack for 
 
 | **My Stats** | **Most Used Languages** |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=habib&show_icons=true&theme=radical" height="170px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habib&layout=compact&theme=radical" height="170px" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=YOUR_ACTUAL_USERNAME&show_icons=true&theme=radical" height="170px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ACTUAL_USERNAME&layout=compact&theme=radical" height="170px" /> |
 
 **🔥 Current Streak**
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=habib&theme=radical" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_ACTUAL_USERNAME&theme=radical" />
 
 <br/>
 
