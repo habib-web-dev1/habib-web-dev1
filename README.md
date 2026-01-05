@@ -28,16 +28,19 @@ I am a passionate **Full Stack Web Developer** from Bangladesh with a knack for 
 
 ---
 
+
+
+
 ### 📊 GitHub Statistics
 <div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=habib-web-dev1&theme=tokyonight&area=true" width="100%" />
+
+<br/>
+
 | **Overall Stats** | **Most Used Languages** |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=habib&show_icons=true&theme=radical" height="175px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habib&layout=compact&theme=radical" height="175px" /> |
-
-**🔥 Contribution Streak**
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=habib-web-dev1&theme=radical" width="100%" />
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=habib-web-dev1&theme=tokyonight" height="170px" /> | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=habib-web-dev1&layout=compact&theme=tokyonight&hide=html,css" height="175px" /> |
 
 <br/>
 
