@@ -1,10 +1,5 @@
 <div align="center">
-
-# Hi 👋, I'm Md Ahsan Habib
-### Full Stack Web Developer | MERN Specialist
-
-<img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Portfolio&fontSize=50" width="100%" />
-
+<img src="banner.png" alt="Banner" width="100%" />
 </div>
 
 ---
