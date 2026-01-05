@@ -25,18 +25,19 @@ I am a passionate **Full Stack Web Developer** from Bangladesh with a knack for 
 #### 🛠️ Tools & Deployment
 <img src="https://skillicons.dev/icons?i=git,figma,photoshop,vercel,netlify,cloudflare&perrow=8&theme=dark" />
 
+
 ---
 
 ### 📊 GitHub Statistics
 <div align="center">
 
-| **My Stats** | **Most Used Languages** |
+| **Overall Stats** | **Most Used Languages** |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=YOUR_ACTUAL_USERNAME&show_icons=true&theme=radical" height="170px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ACTUAL_USERNAME&layout=compact&theme=radical" height="170px" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=habib&show_icons=true&theme=radical" height="175px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habib&layout=compact&theme=radical" height="175px" /> |
 
-**🔥 Current Streak**
+**🔥 Contribution Streak**
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_ACTUAL_USERNAME&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=habib-web-dev1&theme=radical" width="100%" />
 
 <br/>
 
