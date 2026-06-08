@@ -1,113 +1,215 @@
 <div align="center">
-  <img src="banner.png" alt="Md Ahsan Habib Banner" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md%20Ahsan%20Habib&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend-Focused%20Full%20Stack%20Developer%20(MERN)&descAlignY=55&descSize=18" width="100%" />
+
 </div>
 
-<h1 align="center">Hi, I'm Md Ahsan Habib 👋</h1>
-<h3 align="center">Frontend-Focused Full Stack (MERN) Developer | Open to Remote Work</h3>
+<div align="center">
 
-<p align="center">
-📍 Dhaka, Bangladesh | 🌍 Available Worldwide (Remote) <br/>
-📧 habibmdahsan08@gmail.com
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;MERN+Stack+%7C+React+%7C+Next.js+Developer;Open+to+Remote+Opportunities+%F0%9F%8C%8D;Clean+Code+%7C+Clean+UI+%7C+Clean+APIs)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Frontend-Focused Full Stack Developer specializing in **React, Next.js, Node.js, Express, and MongoDB**.
-
-I build scalable web applications with clean UI, secure authentication, and well-structured APIs. I enjoy working in remote environments, collaborating via GitHub, and continuously improving my skills.
-
-- 🔭 Currently building: Product Management System (MERN)  
-- 🌱 Learning: TypeScript, Advanced Next.js, Server Actions  
-- 💬 Ask me about: React, MERN Stack, REST APIs, Firebase  
-- 🚀 Career Goal: Join a global remote team as a Full Stack Developer  
+```javascript
+const Habib = {
+  name: "Md Ahsan Habib",
+  location: "Dhaka, Bangladesh 🇧🇩",
+  role: "Frontend-Focused Full Stack Developer",
+  stack: ["React", "Next.js", "Node.js", "Express", "MongoDB", "TypeScript"],
+  recentBuilds: [
+    "MediVantage — AI Healthcare Platform",
+    "GlobeTrek AI — Travel Booking Platform",
+  ],
+  learning: ["Advanced TypeScript", "Next.js Server Actions", "AI Integration"],
+  goal: "Join a global remote team as a Full Stack Developer 🌍",
+  openTo: "Remote Work  · Full-time Opportunities",
+  contact: "habibmdahsan08@gmail.com",
+};
+```
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs&perrow=7&theme=dark" />
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)
 
 ### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perrow=4&theme=dark" />
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
 ### 🛠️ Tools & Deployment
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel,netlify&perrow=6&theme=dark" />
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🍽️ Local Chef – Food Ordering Platform (MERN)
-🔗 Live: https://local-chef-client.vercel.app  
-📦 Code: https://github.com/habib-web-dev1/local-chef-client  
+### 🏥 MediVantage — AI Healthcare Platform
 
-- Developed full-stack food ordering system  
-- Built REST APIs using Express.js  
-- Implemented Firebase authentication  
-- Integrated MongoDB database  
-- Designed responsive UI with Tailwind CSS  
+> A modern, AI-driven healthcare platform built with Next.js 16.
 
----
+🌐 [Live Application](https://medivantage.vercel.app) &nbsp;|&nbsp; 📦 [Frontend Repo](https://github.com/habib-web-dev1/medivantage-frontend) &nbsp;|&nbsp; 🔧 [Backend Repo](https://github.com/habib-web-dev1/medivantage-backend)
 
-### 🏠 Hero Home Service – Booking System (MERN)
-🔗 Live: https://hero-home-service.web.app  
-📦 Code: https://github.com/habib-web-dev1/home-hero-client  
+**Core Functionality:**
 
-- Built role-based service platform  
-- JWT & Firebase authentication  
-- RESTful API integration  
-- Admin & user dashboards  
+- **Patient Portal** — Seamless appointment booking and digital prescription downloads
+- **Doctor Dashboard** — Efficient patient queue management and digital prescription issuance
+- **Admin Control Panel** — Comprehensive oversight of all platform activities and users
+
+**Tech Stack:** `Next.js 16` &nbsp;`Node.js` &nbsp;`Express.js` &nbsp;`MongoDB` &nbsp;`Tailwind CSS`
 
 ---
 
-### 🛒 TrendMart – E-commerce Platform (Next.js + MERN)
-🔗 Live: https://trendmart-client.vercel.app  
-📦 Code: https://github.com/habib-web-dev1/trendmart-client  
+### ✈️ GlobeTrek AI — Intelligent Travel Booking Platform
 
-- Developed SEO-friendly e-commerce site  
-- Vendor product management (CRUD)  
-- Secure checkout system  
-- Next.js routing & optimization  
+> A high-performance, full-stack travel agency platform leveraging Google Gemini AI for an intelligent, premium user experience.
+
+🌐 [Live Application](https://globtrekai.vercel.app) &nbsp;|&nbsp; 📦 [Frontend Repo](https://github.com/habib-web-dev1/globtrek-frontend) &nbsp;|&nbsp; 🔧 [Backend Repo](https://github.com/habib-web-dev1/globtrek-backend)
+
+**Key Features:**
+
+- 🤖 **AI-Driven Experience** — Integrated Gemini Pro chatbot for personalized travel itineraries and automated review sentiment analysis (Smart Summaries)
+- 🛡️ **Enterprise-Grade Security** — JWT Authentication with role-based access control (RBAC), frontend/backend route middleware, and Bcrypt encryption
+- 📊 **Administrative Suite** — Real-time revenue and user metrics via MongoDB Aggregations, full CRUD inventory management, and a dynamic booking status workflow
+
+**Tech Stack:**
+
+| Layer                | Technologies                                    |
+| -------------------- | ----------------------------------------------- |
+| **Frontend**         | Next.js, TypeScript, Tailwind CSS, Lucide React |
+| **State Management** | Zustand with Persistent Middleware              |
+| **Backend**          | Node.js, Express.js, TypeScript                 |
+| **Database**         | MongoDB & Mongoose                              |
+| **AI Engine**        | Google Generative AI (Gemini Pro)               |
+| **API Client**       | Axios with JWT Interceptors                     |
 
 ---
 
-## 📈 GitHub Activity
+## 🔨 Other Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🍽️ Local Chef — Food Ordering Platform
+
+[![Live](https://img.shields.io/badge/🌐_Live_Demo-000?style=for-the-badge)](https://local-chef-client.vercel.app)
+[![Code](https://img.shields.io/badge/📦_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/habib-web-dev1/local-chef-client)
+
+Full-stack food ordering system built on the MERN stack.
+
+**Highlights:**
+
+- 🔐 Firebase authentication
+- 🗄️ MongoDB + Express REST APIs
+- 🎨 Responsive UI with Tailwind CSS
+- ⚡ Real-time order management
+
+**Stack:** `React` `Node.js` `Express` `MongoDB` `Firebase` `Tailwind`
+
+</td>
+<td width="50%">
+
+### 🏠 Hero Home Service — Booking System
+
+[![Live](https://img.shields.io/badge/🌐_Live_Demo-000?style=for-the-badge)](https://hero-home-service.web.app)
+[![Code](https://img.shields.io/badge/📦_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/habib-web-dev1/home-hero-client)
+
+Role-based service booking platform with admin and user dashboards.
+
+**Highlights:**
+
+- 🛡️ JWT + Firebase authentication
+- 👥 Admin & user role management
+- 🔌 RESTful API integration
+- 📊 Dual dashboard system
+
+**Stack:** `React` `Node.js` `Express` `MongoDB` `JWT` `Firebase`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=habib-web-dev1&theme=tokyonight&area=true" width="100%" />
+
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=habib-web-dev1&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
 </div>
 
 ---
 
 ## 💼 What I Bring to Your Team
 
-✅ Strong MERN Stack foundation  
-✅ Clean & maintainable code  
-✅ API design & integration  
-✅ Responsive UI development  
-✅ Remote collaboration experience  
-✅ Continuous learner mindset  
-
----
-
-## 📬 Contact & Connect
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ahsan-habib-coder/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:habibmdahsan08@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EE4B2B?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+| 💡 Skill              | 📌 Detail                                      |
+| --------------------- | ---------------------------------------------- |
+| 🏗️ **MERN Stack**     | End-to-end web apps from database to UI        |
+| 🎨 **Responsive UI**  | Pixel-perfect, mobile-first designs            |
+| 🔌 **REST APIs**      | Secure, well-structured API design             |
+| 🔐 **Auth Systems**   | JWT, Firebase, role-based access control       |
+| 🤖 **AI Integration** | Google Gemini API, smart features & automation |
+| 🚀 **Deployment**     | Vercel, Netlify, Firebase Hosting              |
+| 🧩 **TypeScript**     | Type-safe codebases, scalable architecture     |
+| 🤝 **Remote Collab**  | GitHub, async communication, clean commits     |
 
 </div>
 
 ---
 
-⭐ I am actively seeking **Remote MERN / Frontend Developer opportunities** and freelance projects.
-Let’s build impactful products together 🚀
+## 🌐 Portfolio & Contact
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ahsan--habib.vercel.app-0A66C2?style=for-the-badge)](https://ahsan-habib.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-habib-coder/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:habibmdahsan08@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/habib-web-dev1)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **Actively seeking Remote MERN / Frontend Developer opportunities**
+Let's build something impactful together 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+
+</div>
