@@ -24,7 +24,13 @@ const Habib = {
     "MediVantage — AI Healthcare Platform",
     "GlobeTrek AI — Travel Booking Platform",
   ],
-  learning: ["Advanced TypeScript", "Next.js Server Actions", "AI Integration"],
+  learning: [
+    "Advanced TypeScript",
+    "Next.js Server Actions",
+    "AI Integration",
+    "Docker",
+    "CI/CD Pipelines",
+  ],
   goal: "Join a global remote team as a Full Stack Developer 🌍",
   openTo: "Remote Work  · Full-time Opportunities",
   contact: "habibmdahsan08@gmail.com",
@@ -61,6 +67,8 @@ const Habib = {
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -84,7 +92,12 @@ const Habib = {
 - **Doctor Dashboard** — Efficient patient queue management and digital prescription issuance
 - **Admin Control Panel** — Comprehensive oversight of all platform activities and users
 
-**Tech Stack:** `Next.js 16` &nbsp;`Node.js` &nbsp;`Express.js` &nbsp;`MongoDB` &nbsp;`Tailwind CSS`
+**Tech Stack:** `Next.js 16` &nbsp;`Node.js` &nbsp;`Express.js` &nbsp;`MongoDB` &nbsp;`Tailwind CSS` &nbsp;`Docker` &nbsp;`GitHub Actions`
+
+**DevOps Highlights:**
+
+- 🐳 **Dockerized** — Both frontend and backend containerized with Docker for consistent environments
+- ⚙️ **CI/CD Pipeline** — Automated build, test, and deployment via GitHub Actions on every push
 
 ---
 
@@ -164,7 +177,6 @@ Role-based service booking platform with admin and user dashboards.
 
 <div align="center">
 
-
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=habib-web-dev1&theme=tokyo-night&hide_border=true&area=true" width="100%" />
@@ -185,6 +197,8 @@ Role-based service booking platform with admin and user dashboards.
 | 🔐 **Auth Systems**   | JWT, Firebase, role-based access control       |
 | 🤖 **AI Integration** | Google Gemini API, smart features & automation |
 | 🚀 **Deployment**     | Vercel, Netlify, Firebase Hosting              |
+| 🐳 **Docker**         | Containerized apps, consistent dev/prod envs   |
+| ⚙️ **CI/CD**          | GitHub Actions pipelines, automated deployment |
 | 🧩 **TypeScript**     | Type-safe codebases, scalable architecture     |
 | 🤝 **Remote Collab**  | GitHub, async communication, clean commits     |
 
