@@ -97,7 +97,7 @@ const Habib = {
 
 ---
 
-## Professional Highlights
+## Engineering Highlights
 
 <div align="center">
 
@@ -115,19 +115,20 @@ const Habib = {
 
 </div>
 
+
+
+
+
 ---
+ ## 🎯 Current Focus
 
-## Currently Learning
+<div >
 
-<div align="center">
 
-| Area                    | Focus                                     |
-| ----------------------- | ----------------------------------------- |
-| 🏛️ System Design        | Distributed systems, scalability patterns |
-| 🔷 Advanced TypeScript  | Generics, utility types, strict patterns  |
-| ⚛️ Next.js Architecture | App Router, Server Actions, RSC           |
-| ☁️ Cloud & DevOps       | AWS fundamentals, container orchestration |
-| 🧮 DSA                  | Algorithms and data structures daily      |
+- Building scalable full-stack applications
+- Learning system design
+- Solving Data Structures & Algorithms daily
+- Seeking remote Full Stack opportunities
 
 </div>
 
@@ -217,10 +218,10 @@ const Habib = {
 
 </div>
 
+
 ---
-
 <div align="center">
-
+  
 **Open to Remote Full Stack & Frontend Engineering Opportunities**
 
 Passionate about building scalable products, writing clean code, and collaborating with distributed teams.<br/>
