@@ -41,7 +41,7 @@ const Habib = {
   ],
   recentBuilds: [
     "MediVantage   — Production-ready AI Healthcare Platform (Dockerized + CI/CD)",
-    "GlobeTrek AI  — AI-powered Travel Booking Platform (Gemini Integration)",
+    "GlobeTrek AI  — AI-powered Travel Booking Platform",
   ],
   learning: [
     "System Design",
